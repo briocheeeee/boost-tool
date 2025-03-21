@@ -23,7 +23,7 @@ put your token(s) in tokens.txt
 put your [CapMonster](https://capmonster.cloud) key in settings.json.
 
 ```json
-    "Capmonster_apikey": "Put your capmonster api key here!"
+    "Capmonster_apikey": "YOUR KEY"
 ```
 
 # DISCLAIMER
